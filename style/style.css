@@ -1,8 +1,11 @@
 .search-bar {
     margin: 20px;
     text-align: center;
+    color:red;
 }
-
+.container{
+    background-color: grey;
+}
 .search-bar input {
     width: 75%;
 }
@@ -18,7 +21,7 @@
     border-radius: 4px;
 }
 
-.list-group-item {
+. {
     cursor: pointer;
 }
 
